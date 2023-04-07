@@ -1,0 +1,6 @@
+yum install mysql -y
+yum install python3 
+yum install flask
+sudo yum install python3-pip
+sudo yum install python3-boto3
+pip3 install pymysql boto3

@@ -1,0 +1,6 @@
+customhost = "database-1.cmbre1fh1b0t.ap-south-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "sj1711177"
+customdb = "employee"
+custombucket = "myemployeedatabucket"
+customregion = "us-east-1"
